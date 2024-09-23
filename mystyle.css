@@ -13,9 +13,8 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   position:relative;
-  background-color: #e3a1a1;
+  background: url(images/vichy.png), linear-gradient(to bottom right, #ffe7dd, #c57373 98%)
   /* background-image: linear-gradient(to bottom right, #ffe7dd, #c57373 98%); */
-  background-image: url(/images/vichy.png)
   }
   
   h1 {
